@@ -1,2 +1,2 @@
 # pratham1
-This is my first Git Repository
+This is my first Git Repository in Github
